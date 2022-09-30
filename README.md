@@ -4,7 +4,7 @@
 
 ## Visualization of the Website
 
-![Form](https://github.com/SkyCooper/WeatherApp/blob/main/WeatherApp.gif)
+![image](https://user-images.githubusercontent.com/106506769/193334871-eeeb32ef-b09a-47b0-ae2e-b5bf7d6d43d7.png)
 
 ## Description
 Project aims to display pokemon cards with fetching Api data.
